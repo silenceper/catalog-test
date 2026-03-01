@@ -3,3 +3,13 @@ skills:
       source: vercel-labs/agent-skills
       description: Vercel Deploy
       group: Ungrouped
+rules:
+    - name: test-rule
+      source: _local
+      description: A test rule for e2e
+      group: Ungrouped
+commands:
+    - name: test-cmd
+      source: _local
+      description: A test command
+      group: Ungrouped

@@ -1,0 +1,7 @@
+kind: rule
+metadata:
+  name: test-rule
+  description: A test rule for e2e
+spec:
+  content_file: content.md
+  always_apply: true

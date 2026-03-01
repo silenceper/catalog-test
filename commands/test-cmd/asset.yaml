@@ -1,0 +1,6 @@
+kind: command
+metadata:
+  name: test-cmd
+  description: A test command
+spec:
+  content_file: content.md

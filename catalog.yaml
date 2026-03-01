@@ -1,21 +1,5 @@
 skills:
     - name: vercel-deploy
-      source: https://github.com/vercel-labs/agent-skills
+      source: vercel-labs/agent-skills
       description: Vercel Deploy
-      group: Ungrouped
-    - name: vercel-composition-patterns
-      source: https://github.com/vercel-labs/agent-skills
-      description: React composition patterns that scale. Use when refactoring components with
-      group: Ungrouped
-    - name: vercel-react-best-practices
-      source: https://github.com/vercel-labs/agent-skills
-      description: React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.js code to ensure optimal performance patterns. Triggers on tasks involving React components, Next.js pages, data fetching, bundle optimization, or performance improvements.
-      group: Ungrouped
-    - name: vercel-react-native-skills
-      source: https://github.com/vercel-labs/agent-skills
-      description: React Native and Expo best practices for building performant mobile apps. Use
-      group: Ungrouped
-    - name: web-design-guidelines
-      source: https://github.com/vercel-labs/agent-skills
-      description: Web Interface Guidelines
       group: Ungrouped
